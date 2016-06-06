@@ -30,6 +30,9 @@ gem 'font-awesome-sass', '~> 4.6.2'
 # Use Prawn for PDF layout
 gem 'prawn', '~> 2.1.0'
 
+# Use Devise for authentication
+gem 'devise'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
